@@ -8,10 +8,8 @@ requires 'Data::Dump::Color';
 requires 'Data::HexDump::Range';
 requires 'Text::VimColor';
 
-
-# not working properly yet
-# requires 'App::Cmd::Tester';
-# requires 'App::Cmd::Simple';
-# requires 'App::Cmd';
+# mac users need the command line tools
+# xcode-select --install
+#
 # requires 'App::highlight';
 
