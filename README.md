@@ -1,6 +1,15 @@
 # perlcolour
 Colourful things in perl
 
+This is geared to my setup of a brewed perl and a userspace cpanm. Doesn't
+everyone do this?
+
+inc::Module::Install needs to be installed manually.
+
+If anyone wants to make a Makefile.PL, or provide a script to, please do.
+
+
+
 Install things with:
 
 `
@@ -34,3 +43,5 @@ http://search.cpan.org/~nkh/Data-HexDump-Range-0.13.59/lib/Data/HexDump/Range.pm
 Mark up text files according to syntax:
 
 http://search.cpan.org/~rwstauner/Text-VimColor-0.26/lib/Text/VimColor.pm
+
+
