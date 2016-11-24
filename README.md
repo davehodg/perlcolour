@@ -44,4 +44,23 @@ Mark up text files according to syntax:
 
 http://search.cpan.org/~rwstauner/Text-VimColor-0.26/lib/Text/VimColor.pm
 
+Colourise ls:
+
+`
+File::LsColor
+`
+
+Color screen output using 256 colors:
+
+`
+Term::ExtendedColor
+`
+
+Provides:
+
+color_matrix 	a matrix of available colors from Term::ExtendedColor  
+colored-dmesg 	colorize the dmesg output  
+show_all_colors	show all available colors from Term::ExtendedColor, in color  
+uncolor 	strip input from attached colors and attributes  
+
 

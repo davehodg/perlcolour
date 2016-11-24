@@ -15,3 +15,5 @@ requires 'Text::VimColor';
 requires 'Term::ANSIColor';
 requires 'App::highlight';
 
+requires 'File::LsColor';
+
